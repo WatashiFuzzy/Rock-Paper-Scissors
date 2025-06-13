@@ -27,12 +27,12 @@ Một chương trình nhỏ bằng C++ giúp bạn chơi trò "Kéo - Búa - Bao
    ```
 3. File kết quả:
 
-Sau khi kết thúc trò chơi, xem file tongtranchoi.txt để biết số trận đã chơi, thắng, thua, hòa.
+Sau khi kết thúc trò chơi, xem file `tongtranchoi.txt` để biết số trận đã chơi, thắng, thua, hòa.
 
 📝 Lưu ý
 Chương trình viết bằng C++ cơ bản.
 
-Sử dụng thư viện <cstdlib>, <ctime>, <fstream>, <iostream>.
+Sử dụng thư viện `<ctime>`, `<cstdlib>`, `<fstream>`. `<iostream>`.
 
 Dữ liệu lưu dưới dạng file text đơn giản.
 
