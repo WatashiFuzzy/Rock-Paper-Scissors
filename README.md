@@ -20,7 +20,7 @@ Một chương trình nhỏ bằng C++ giúp bạn chơi trò "Kéo - Búa - Bao
 
   ```bash
     g++ main.cpp -o keobuabao
-```
+  ```
 2. **Chạy chương trình**
    ```bash
    ./keobuabao
